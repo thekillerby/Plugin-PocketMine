@@ -1,6 +1,6 @@
 name: KillChat
 version: 1.0.2
-api: 1.9.0
+api: 3.0.0
 main: Praxthisnovcht\KillChat\KillChat
 author: [Flavius12,Praxthisnovcht]
 depend: [CustomChat]
